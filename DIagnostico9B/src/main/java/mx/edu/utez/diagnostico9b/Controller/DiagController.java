@@ -10,7 +10,7 @@ public class DiagController {
 
     @GetMapping("/saludo")
     public String saludo() {
-        return "Hola desde mi backend";
+        return "Hola desde mi backend Soy Zúñiga";
     }
 }
 
